@@ -10,15 +10,9 @@
   
   <img alt="Architecture" src="https://img.shields.io/badge/Architecture-DDD%20%26%20Clean%20architecture-brightgreen" />
 
-  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-MongoDB-green" />
-    
-  <img alt="OfflineDB" src="https://img.shields.io/badge/OfflineDB-Realm-ef476f" />
-
   <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue" />
   
   <img alt="AWS" src="https://img.shields.io/badge/Cloud-AWS-orange" />
-  
-  <img alt="AI" src="https://img.shields.io/badge/AI-TensorFlow-f8961e" />
  
 </p>
 
