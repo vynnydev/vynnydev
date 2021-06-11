@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img alt="Backend" src="https://img.shields.io/badge/Backend-NodeJS" />
+  <img alt="Backend" src="https://img.shields.io/badge/Back--End-TypeScript-blue" />
 
   <img alt="Front-end Web" src="https://img.shields.io/badge/Web-React%20%7C%20Angular-blue" />
   
