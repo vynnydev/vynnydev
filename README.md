@@ -16,7 +16,7 @@
  
 </p>
 
-I'm a full stack developer passionate about Javascript and Typescript languages and their tecnologies like NodeJs, ReactJS, React-Native, Angular and Ionic and also others similars stacks, which are currently powerful in the market, structuring the backend, frontend and mobile and bringing us great experiences every day. 
+I am a fullstack developer, focused on the backend, passionate about the Typescript language, integrated tests with Jest and architectures such as Clean Architecture and DDD and also React on the front end, which are currently powerful in the market, bringing to me every day more experience and happiness with it every day. 
 
 - :office: I'm Back-end develop in Profitfy company
 - 🌱 I’m currently learning Typescript, Jest, BDD Specs, Docker, SOLID patterns, Clean Architecture, microservices and Serveless
