@@ -4,7 +4,7 @@
   
   <img alt="Backend" src="https://img.shields.io/badge/Back--End-TypeScript-blue" />
   
-    <img alt="Architecture" src="https://img.shields.io/badge/Architecture-DDD%20%26%20Clean%20architecture-brightgreen" />
+  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-DDD%20%26%20Clean%20architecture-brightgreen" />
 
   <img alt="SQL" src="https://img.shields.io/badge/SQL-PosgreSQL-blue" />
 
