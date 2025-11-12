@@ -110,7 +110,6 @@ Currently leading DevOps initiatives for cloud-native applications, implementing
 
 ## 🎓 Certifications & Education
 
-- 🎓 **B.Sc. Computer Science** - UNIP (2016-2019)
 - 🎓 **B.Sc. Cloud Computing** - FIAP (2024-2025)
 - ☁️ **AWS Certifications**: Cloud Foundations, Technology Compute, Solutions Architect
 - 🔧 **DevOps & Agile** - FIAP Nano Courses
